@@ -1,0 +1,30 @@
+# ARIA v2.0 - 全自動區域受災衝擊評估系統（地形整合版）
+# Week 4 Assignment: Integrated Impact Auditor with Terrain Intelligence
+
+# 核心地理資料分析套件
+geopandas>=0.14.0
+shapely>=2.0.0
+
+# DEM 與地形分析套件
+rioxarray>=0.15.0
+rasterstats>=0.19.0
+xarray>=2023.1.0
+
+# 資料處理套件
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# 視覺化套件
+matplotlib>=3.7.0
+seaborn>=0.12.0
+folium>=0.14.0
+mapclassify>=2.5.0
+
+# 環境設定與工具
+python-dotenv>=1.0.0
+jupyter>=1.0.0
+
+# 網路請求與編碼
+requests>=2.31.0
+chardet>=5.0.0
