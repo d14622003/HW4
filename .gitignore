@@ -34,13 +34,6 @@ MANIFEST
 #outputs/*.csv
 #*.geojson
 *.tif
-
-*.shp
-*.shx
-*.dbf
-*.prj
-*.cpg
-
 *.zip
 
 # Outputs
